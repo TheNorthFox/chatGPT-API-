@@ -1,6 +1,21 @@
-# ChatGPT
+# ChatGPT - Angular APP
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.3.
+This project is a view for the following spring boot rest API 
+
+https://github.com/TheNorthFox/chatGPT-API-Backend
+
+![1p](https://github.com/TheNorthFox/chatGPT-APIDemo/assets/11982732/cf7d584f-04a7-4082-98cc-45aee8549a20)
+Fig 1:
+
+
+![2p](https://github.com/TheNorthFox/chatGPT-APIDemo/assets/11982732/a3529dbd-f30e-4c6d-8787-5f495875fbcb)
+Fig 2:
+
+
+![3p](https://github.com/TheNorthFox/chatGPT-APIDemo/assets/11982732/ea6a1083-eafb-4f3a-a230-221daf8f2d8c)
+Fig 3:
+
 
 ## Development server
 
